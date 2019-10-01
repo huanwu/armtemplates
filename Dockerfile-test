@@ -1,4 +1,4 @@
-FROM huanwudftest02/baseimages/node:9-alpine
+FROM huanwudftest2.azurecr-test.io/baseimages/node:9-alpine
 
 COPY . /src
 
