@@ -23,7 +23,7 @@ az identity create \
   -n myquickdockerbuildrunwithidentity
 ```
 
-## Add role assignment to the remote registry (refill with the right information below)
+## Add role assignment to the remote registry (You need fill the right information below)
 
 ```bash
 az role assignment create --assignee "c5e2807e-4bbf-4faa-80fb-0a37f316113a" \
