@@ -1,4 +1,4 @@
-# Task run
+# Quick Docker build using identity and credential
 
 ## Create a resource group
 
